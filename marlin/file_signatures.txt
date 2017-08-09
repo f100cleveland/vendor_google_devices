@@ -1,8 +1,8 @@
 09edf10d937eb3c1c396a94056671cab90bbde82  AndroidBoardVendor.mk
-13cb37c9a08a287b538b4ed9290c8f53062f37d3  Android.mk
+b4c3c055777255ea1b9cefb564f229902bed0b39  Android.mk
 557cd78551d32b2efd0599df8515ced3f3cc432a  BoardConfigVendor.mk
 d48eb4ed94a29057c9153762a09d3586904c5ac9  BoardConfigVendorPartial.mk
-b2e740f920a5800855a3506ba74a40695bacae61  device-vendor-marlin.mk
+3254df7fcc33817197010a4d798751f746505e26  device-vendor-marlin.mk
 f5980665744d5b8266f33b59cccf32a6f64d7ad0  marlin-vendor-blobs.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  proprietary/bin/mct-unit-test-app
 759cf0403bfbca77d0b93a851049d75bf8eed46f  proprietary/bin/nanotool
