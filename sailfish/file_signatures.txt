@@ -1,5 +1,5 @@
 09edf10d937eb3c1c396a94056671cab90bbde82  AndroidBoardVendor.mk
-568fea548b502470d5d0b4d682a844f9f7a2b386  Android.mk
+3f71aa29dd48c620ae8e7477d7f1bdc0336b0c41  Android.mk
 b0e0c1769b9b78d2526ca9898d5e8c4a1dd34df9  BoardConfigVendor.mk
 6e92ca4399ad318c8283a7c8b3f40648e99006f5  BoardConfigVendorPartial.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  proprietary/bin/mct-unit-test-app
