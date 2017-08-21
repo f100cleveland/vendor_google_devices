@@ -204,7 +204,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/vendor/etc/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml:google \
     vendor/google_devices/sailfish/vendor/etc/mkshrc:$(TARGET_COPY_OUT_VENDOR)/etc/mkshrc:google \
     vendor/google_devices/sailfish/vendor/etc/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf:google \
-    vendor/google_devices/sailfish/vendor/etc/NOTICE.xml.gz:$(TARGET_COPY_OUT_VENDOR)/etc/NOTICE.xml.gz:google \
     vendor/google_devices/sailfish/vendor/etc/perf-profile0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf-profile0.conf:google \
     vendor/google_devices/sailfish/vendor/etc/permissions/android.hardware.audio.low_latency.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.audio.low_latency.xml:google \
     vendor/google_devices/sailfish/vendor/etc/permissions/android.hardware.audio.pro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.audio.pro.xml:google \
