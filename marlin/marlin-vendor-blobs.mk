@@ -1,4 +1,4 @@
-# [2017-08-21] Auto-generated file, do not edit
+# [2017-08-22] Auto-generated file, do not edit
 
 PRODUCT_COPY_FILES += \
     vendor/google_devices/marlin/proprietary/bin/mct-unit-test-app:$(TARGET_COPY_OUT_SYSTEM)/bin/mct-unit-test-app:google \
@@ -12,8 +12,15 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/marlin/proprietary/etc/cne/Nexus/VZW/VZW_profiles.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/cne/Nexus/VZW/VZW_profiles.xml:google \
     vendor/google_devices/marlin/proprietary/etc/old-apns-conf.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/old-apns-conf.xml:google \
     vendor/google_devices/marlin/proprietary/etc/permissions/com.android.ims.rcsmanager.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.android.ims.rcsmanager.xml:google \
+    vendor/google_devices/marlin/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so:google \
+    vendor/google_devices/marlin/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so:google \
     vendor/google_devices/marlin/proprietary/lib64/libminui.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libminui.so:google \
     vendor/google_devices/marlin/proprietary/lib64/libtinyxml2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libtinyxml2.so:google \
+    vendor/google_devices/marlin/proprietary/lib64/vendor.qti.atcmdfwd@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.qti.atcmdfwd@1.0.so:google \
+    vendor/google_devices/marlin/proprietary/lib64/vendor.qti.qcril.am@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.qti.qcril.am@1.0.so:google \
+    vendor/google_devices/marlin/proprietary/lib/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaptX_encoder.so:google \
+    vendor/google_devices/marlin/proprietary/lib/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaptXHD_encoder.so:google \
+    vendor/google_devices/marlin/proprietary/lib/libion.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libion.so:google \
     vendor/google_devices/marlin/proprietary/lib/libminui.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libminui.so:google \
     vendor/google_devices/marlin/proprietary/lib/libtinyxml2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libtinyxml2.so:google \
     vendor/google_devices/marlin/vendor/app/embms/oem/config_params.xml:$(TARGET_COPY_OUT_VENDOR)/app/embms/oem/config_params.xml:google \

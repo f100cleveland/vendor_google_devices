@@ -1,4 +1,4 @@
-# [2017-08-21] Auto-generated file, do not edit
+# [2017-08-22] Auto-generated file, do not edit
 
 $(call inherit-product, vendor/google_devices/marlin/marlin-vendor-blobs.mk)
 
@@ -31,7 +31,6 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt APKs/JARs from 'proprietary/priv-app'
 PRODUCT_PACKAGES += \
-    CarrierServices \
     CarrierSetup \
     CNEService \
     DiagMon \
