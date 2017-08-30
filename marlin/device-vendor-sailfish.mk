@@ -1,4 +1,4 @@
-# [2017-08-09] Auto-generated file, do not edit
+# [2017-08-30] Auto-generated file, do not edit
 
 $(call inherit-product, vendor/google_devices/sailfish/sailfish-vendor-blobs.mk)
 
@@ -31,7 +31,6 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt APKs/JARs from 'proprietary/priv-app'
 PRODUCT_PACKAGES += \
-    CarrierServices \
     CarrierSetup \
     CNEService \
     DiagMon \
