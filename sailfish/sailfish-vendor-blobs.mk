@@ -259,17 +259,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf:google \
     vendor/google_devices/sailfish/vendor/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediacodec.policy:google \
     vendor/google_devices/sailfish/vendor/etc/sec_config:$(TARGET_COPY_OUT_VENDOR)/etc/sec_config:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/nonplat_file_contexts:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/nonplat_file_contexts:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/nonplat_hwservice_contexts:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/nonplat_hwservice_contexts:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/nonplat_mac_permissions.xml:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/nonplat_mac_permissions.xml:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/nonplat_property_contexts:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/nonplat_property_contexts:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/nonplat_seapp_contexts:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/nonplat_seapp_contexts:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/nonplat_sepolicy.cil:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/nonplat_sepolicy.cil:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/nonplat_service_contexts:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/nonplat_service_contexts:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/plat_sepolicy_vers.txt:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/plat_sepolicy_vers.txt:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/precompiled_sepolicy:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/precompiled_sepolicy:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/precompiled_sepolicy.plat_and_mapping.sha256:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/precompiled_sepolicy.plat_and_mapping.sha256:google \
-    vendor/google_devices/sailfish/vendor/etc/selinux/vndservice_contexts:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/vndservice_contexts:google \
     vendor/google_devices/sailfish/vendor/etc/sound_trigger_mixer_paths_tasha_t50.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_mixer_paths_tasha_t50.xml:google \
     vendor/google_devices/sailfish/vendor/etc/sound_trigger_mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_mixer_paths.xml:google \
     vendor/google_devices/sailfish/vendor/etc/sound_trigger_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_platform_info.xml:google \
