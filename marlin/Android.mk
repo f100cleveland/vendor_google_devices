@@ -1,4 +1,4 @@
-# [2017-08-22] Auto-generated file, do not edit
+# [2017-08-30] Auto-generated file, do not edit
 
 LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),marlin)
