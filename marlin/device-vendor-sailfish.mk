@@ -31,7 +31,6 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt APKs/JARs from 'proprietary/priv-app'
 PRODUCT_PACKAGES += \
-    CarrierSetup \
     CNEService \
     DiagMon \
     qcrilmsgtunnel
