@@ -204,6 +204,8 @@ PRODUCT_PACKAGES += \
 # Enforced modules from user configuration
 PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager \
+    nanotool \
+    PresencePolling \
     RcsService
 
 # Partitions to add in AB OTA images

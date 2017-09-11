@@ -2,7 +2,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/bin/mct-unit-test-app:$(TARGET_COPY_OUT_SYSTEM)/bin/mct-unit-test-app:google \
-    vendor/google_devices/sailfish/proprietary/bin/nanotool:$(TARGET_COPY_OUT_SYSTEM)/bin/nanotool:google \
     vendor/google_devices/sailfish/proprietary/bin/pktlogconf:$(TARGET_COPY_OUT_SYSTEM)/bin/pktlogconf:google \
     vendor/google_devices/sailfish/proprietary/bin/qmi_simple_ril_test:$(TARGET_COPY_OUT_SYSTEM)/bin/qmi_simple_ril_test:google \
     vendor/google_devices/sailfish/proprietary/bin/test_bet_8996:$(TARGET_COPY_OUT_SYSTEM)/bin/test_bet_8996:google \

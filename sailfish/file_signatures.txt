@@ -3,7 +3,6 @@ ba84436461018e663fc89266f17b9bfd8a528dbf  Android.mk
 5c8bac6e5e5b098fc7cf01fe18109e15f0c19af6  BoardConfigVendor.mk
 628badc899acfbfab18ddb0a62b1de03745536ab  BoardConfigVendorPartial.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  proprietary/bin/mct-unit-test-app
-759cf0403bfbca77d0b93a851049d75bf8eed46f  proprietary/bin/nanotool
 12a74ee0b0ec29d1cf4ffd842c12bba917014622  proprietary/bin/pktlogconf
 e9f48f6780a2e9d0c6a5836896da82ffafe09e58  proprietary/bin/qmi_simple_ril_test
 e7e2e4c2308397df939d4f8a98a6f5a2ef18ed3c  proprietary/bin/test_bet_8996
@@ -43,7 +42,7 @@ a7ee381d28db9f8ef1a610ff4526bc3c47edcf14  radio/modem.img
 7d07d2c79916cc5e7598afe024be091b5e30ce27  radio/rpm.img
 8b80a7bcd841b8dad3a9f772d2e0177372311fb9  radio/tz.img
 331f538cd9c22d9791e11498a960305fbb4a57b5  radio/xbl.img
-7d1c0db573839fcd0d3d2f94cd4f9f755099b197  sailfish-vendor-blobs.mk
+a709924fcc0c06f7b1c9f19c545cd413760532c7  sailfish-vendor-blobs.mk
 edf1bdf969ffafac0d83c4652c19040ffe56183c  vendor/app/atfwd/atfwd.apk
 ae61703efbbe69cd6d91b42128f9b5103e37f32f  vendor/app/colorservice/colorservice.apk
 d3f0ff3d7cf24b29d56d3b1d471f2f8f8833f8ab  vendor/app/datastatusnotification/datastatusnotification.apk
