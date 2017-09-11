@@ -33,6 +33,10 @@ PRODUCT_PACKAGES += \
     qti-vzw-ims-internal \
     rcsservice
 
+# Prebuilt APKs/JARs from 'vendor/overlay/Pixel'
+PRODUCT_PACKAGES += \
+    PixelThemeOverlay
+
 # Prebuilt APKs/JARs from 'proprietary/priv-app'
 PRODUCT_PACKAGES += \
     CNEService \

@@ -1,8 +1,8 @@
 203597ddf602a953be382f4575bcded842cda155  AndroidBoardVendor.mk
-9a68a1c235043e789cbd1f02e99a8225c801aecd  Android.mk
+c280b77d937ac89a987c54fc8ab39933a92e01c0  Android.mk
 a23d97826c5c2eecf27d9b540f315d7d7f31cf1f  BoardConfigVendor.mk
 b024974ae1e8e247a7f63eefd78a7cb77fdc046d  BoardConfigVendorPartial.mk
-c9e1177245149941a6dd940ecf35d2ebca3b22fc  device-vendor-marlin.mk
+34e4097d62bfa72548dccd038f07453de1de01ac  device-vendor-marlin.mk
 f8fa6d74b56b563cc6de24862a58320ffff24b2f  marlin-vendor-blobs.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  proprietary/bin/mct-unit-test-app
 12a74ee0b0ec29d1cf4ffd842c12bba917014622  proprietary/bin/pktlogconf
