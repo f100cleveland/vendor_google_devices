@@ -1,7 +1,7 @@
-d75de03da93f4ce3d969cf3ad8322c5988464d48  AndroidBoardVendor.mk
-613d21fea76d4553183400b3561c0feb12e0e854  Android.mk
-6fbb7165ddddbf2112b291c3bd9a8fcf8a970495  BoardConfigVendor.mk
-5873cf7f5a55153ea8facbf429ba17d343c61101  BoardConfigVendorPartial.mk
+203597ddf602a953be382f4575bcded842cda155  AndroidBoardVendor.mk
+ba84436461018e663fc89266f17b9bfd8a528dbf  Android.mk
+5c8bac6e5e5b098fc7cf01fe18109e15f0c19af6  BoardConfigVendor.mk
+628badc899acfbfab18ddb0a62b1de03745536ab  BoardConfigVendorPartial.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  proprietary/bin/mct-unit-test-app
 759cf0403bfbca77d0b93a851049d75bf8eed46f  proprietary/bin/nanotool
 12a74ee0b0ec29d1cf4ffd842c12bba917014622  proprietary/bin/pktlogconf
@@ -24,7 +24,6 @@ daf9d9b77cb64151e1d603a8fd0fda1fbbb12ec3  proprietary/lib64/vendor.qti.qcril.am@
 974c486e4ca03faa0713553d9dfe2995ac93e01c  proprietary/lib/libaptXHD_encoder.so
 c8876c8d4d7e06475e319f56dc28445c77b4a56f  proprietary/lib/libion.so
 f61cb46c01ea198b00cc0f22f4b60288561aae75  proprietary/lib/libminui.so
-546003c773f19e4b721017869d7280126062daf2  proprietary/priv-app/CarrierSetup/CarrierSetup.apk
 37ac6831e8c7cb0bf12e0d8dc2b9d19c407ef5ea  proprietary/priv-app/CNEService/CNEService.apk
 db1d6945364fc70543a3d774f49096f60484a581  proprietary/priv-app/DiagMon/DiagMon.apk
 bcfbc14590bff3109faa31b6781800cbb6af29ae  proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
@@ -44,7 +43,7 @@ a7ee381d28db9f8ef1a610ff4526bc3c47edcf14  radio/modem.img
 7d07d2c79916cc5e7598afe024be091b5e30ce27  radio/rpm.img
 8b80a7bcd841b8dad3a9f772d2e0177372311fb9  radio/tz.img
 331f538cd9c22d9791e11498a960305fbb4a57b5  radio/xbl.img
-f0343a84914d07bdcf1442556ae91ad1bad35d4f  sailfish-vendor-blobs.mk
+7d1c0db573839fcd0d3d2f94cd4f9f755099b197  sailfish-vendor-blobs.mk
 edf1bdf969ffafac0d83c4652c19040ffe56183c  vendor/app/atfwd/atfwd.apk
 ae61703efbbe69cd6d91b42128f9b5103e37f32f  vendor/app/colorservice/colorservice.apk
 d3f0ff3d7cf24b29d56d3b1d471f2f8f8833f8ab  vendor/app/datastatusnotification/datastatusnotification.apk

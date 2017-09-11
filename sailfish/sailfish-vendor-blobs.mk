@@ -1,4 +1,4 @@
-# [2017-09-10] Auto-generated file, do not edit
+# [2017-09-11] Auto-generated file, do not edit
 
 PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/bin/mct-unit-test-app:$(TARGET_COPY_OUT_SYSTEM)/bin/mct-unit-test-app:google \
