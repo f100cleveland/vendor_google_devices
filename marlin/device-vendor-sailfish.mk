@@ -2,6 +2,9 @@
 
 $(call inherit-product, vendor/google_devices/sailfish/sailfish-vendor-blobs.mk)
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.hardware.fingerprint=fpc
+
 # Prebuilt APKs/JARs from 'vendor/app'
 PRODUCT_PACKAGES += \
     atfwd \
