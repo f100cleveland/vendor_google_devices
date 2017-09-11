@@ -3,7 +3,7 @@
 a23d97826c5c2eecf27d9b540f315d7d7f31cf1f  BoardConfigVendor.mk
 b024974ae1e8e247a7f63eefd78a7cb77fdc046d  BoardConfigVendorPartial.mk
 c9e1177245149941a6dd940ecf35d2ebca3b22fc  device-vendor-marlin.mk
-2e95213658b2aa154bce213237d46dacd7672508  marlin-vendor-blobs.mk
+f8fa6d74b56b563cc6de24862a58320ffff24b2f  marlin-vendor-blobs.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  proprietary/bin/mct-unit-test-app
 12a74ee0b0ec29d1cf4ffd842c12bba917014622  proprietary/bin/pktlogconf
 e9f48f6780a2e9d0c6a5836896da82ffafe09e58  proprietary/bin/qmi_simple_ril_test
@@ -13,7 +13,6 @@ e7e2e4c2308397df939d4f8a98a6f5a2ef18ed3c  proprietary/bin/test_bet_8996
 aaf2e9424cf53bde71edbf16282108e8537a9bb9  proprietary/etc/cne/Nexus/ROW/ROW_profiles.xml
 6005b977bc9523331f8fce37822e4ebfbb603af8  proprietary/etc/cne/Nexus/VZW/VZW_profiles.xml
 053063f691e3027a296806e7264f32840d4bc712  proprietary/etc/old-apns-conf.xml
-16e9b0184e006a40a4d8de22161452faaa50f98f  proprietary/etc/permissions/com.android.ims.rcsmanager.xml
 acb50c076d04e4d6c4bfce65014e3c0054b8f66a  proprietary/etc/permissions/privapp-permissions-marlin.xml
 babd1be70afb90238d27b2bc673188ddab0ac054  proprietary/etc/sysconfig/nexus.xml
 0cebad28afcf29f931bdc2d24fce2730dc882ecf  proprietary/lib64/libaptX_encoder.so
