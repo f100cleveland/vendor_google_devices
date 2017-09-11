@@ -10,7 +10,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/etc/cne/Nexus/ROW/ROW_profiles.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/cne/Nexus/ROW/ROW_profiles.xml:google \
     vendor/google_devices/sailfish/proprietary/etc/cne/Nexus/VZW/VZW_profiles.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/cne/Nexus/VZW/VZW_profiles.xml:google \
     vendor/google_devices/sailfish/proprietary/etc/old-apns-conf.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/old-apns-conf.xml:google \
-    vendor/google_devices/sailfish/proprietary/etc/permissions/com.android.ims.rcsmanager.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.android.ims.rcsmanager.xml:google \
     vendor/google_devices/sailfish/proprietary/etc/permissions/privapp-permissions-marlin.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-marlin.xml:google \
     vendor/google_devices/sailfish/proprietary/etc/sysconfig/nexus.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/nexus.xml:google \
     vendor/google_devices/sailfish/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so:google \

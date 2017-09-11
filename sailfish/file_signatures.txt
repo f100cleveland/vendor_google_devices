@@ -11,7 +11,6 @@ e7e2e4c2308397df939d4f8a98a6f5a2ef18ed3c  proprietary/bin/test_bet_8996
 aaf2e9424cf53bde71edbf16282108e8537a9bb9  proprietary/etc/cne/Nexus/ROW/ROW_profiles.xml
 6005b977bc9523331f8fce37822e4ebfbb603af8  proprietary/etc/cne/Nexus/VZW/VZW_profiles.xml
 053063f691e3027a296806e7264f32840d4bc712  proprietary/etc/old-apns-conf.xml
-16e9b0184e006a40a4d8de22161452faaa50f98f  proprietary/etc/permissions/com.android.ims.rcsmanager.xml
 acb50c076d04e4d6c4bfce65014e3c0054b8f66a  proprietary/etc/permissions/privapp-permissions-marlin.xml
 babd1be70afb90238d27b2bc673188ddab0ac054  proprietary/etc/sysconfig/nexus.xml
 0cebad28afcf29f931bdc2d24fce2730dc882ecf  proprietary/lib64/libaptX_encoder.so
@@ -42,7 +41,7 @@ a7ee381d28db9f8ef1a610ff4526bc3c47edcf14  radio/modem.img
 7d07d2c79916cc5e7598afe024be091b5e30ce27  radio/rpm.img
 8b80a7bcd841b8dad3a9f772d2e0177372311fb9  radio/tz.img
 331f538cd9c22d9791e11498a960305fbb4a57b5  radio/xbl.img
-a709924fcc0c06f7b1c9f19c545cd413760532c7  sailfish-vendor-blobs.mk
+1942c51d1ba5c4d2165f1d097980c2d92c692842  sailfish-vendor-blobs.mk
 edf1bdf969ffafac0d83c4652c19040ffe56183c  vendor/app/atfwd/atfwd.apk
 ae61703efbbe69cd6d91b42128f9b5103e37f32f  vendor/app/colorservice/colorservice.apk
 d3f0ff3d7cf24b29d56d3b1d471f2f8f8833f8ab  vendor/app/datastatusnotification/datastatusnotification.apk
