@@ -3,6 +3,7 @@
 $(call inherit-product, vendor/google_devices/marlin/marlin-vendor-blobs.mk)
 
 PRODUCT_PROPERTY_OVERRIDES += \
+    ro.hardware.egl=adreno \
     ro.hardware.fingerprint=fpc
 
 # Prebuilt APKs/JARs from 'vendor/app'
