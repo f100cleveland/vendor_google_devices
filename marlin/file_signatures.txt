@@ -1,9 +1,9 @@
-d75de03da93f4ce3d969cf3ad8322c5988464d48  AndroidBoardVendor.mk
-92d7d957f91a309134ce3fc85978da4a998f92d9  Android.mk
-e2a3a368f72b6c14572fd0fb38e48bf4959f9a57  BoardConfigVendor.mk
-5055b9c3bd2bba4bf53ba6ddf8690e10ff9a5979  BoardConfigVendorPartial.mk
-99433c60aa9833134757d0c5693f9cfd28b08d6b  device-vendor-marlin.mk
-fabcb28bec6cc78d9833c9c49631905cdfe66f4c  marlin-vendor-blobs.mk
+203597ddf602a953be382f4575bcded842cda155  AndroidBoardVendor.mk
+9a68a1c235043e789cbd1f02e99a8225c801aecd  Android.mk
+a23d97826c5c2eecf27d9b540f315d7d7f31cf1f  BoardConfigVendor.mk
+b024974ae1e8e247a7f63eefd78a7cb77fdc046d  BoardConfigVendorPartial.mk
+507708d4b1df6dc8aed1f98588054eaad5362aa8  device-vendor-marlin.mk
+b3d5466dae5355f2a0be23e8dcab66129481bd20  marlin-vendor-blobs.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  proprietary/bin/mct-unit-test-app
 759cf0403bfbca77d0b93a851049d75bf8eed46f  proprietary/bin/nanotool
 12a74ee0b0ec29d1cf4ffd842c12bba917014622  proprietary/bin/pktlogconf
@@ -26,7 +26,6 @@ daf9d9b77cb64151e1d603a8fd0fda1fbbb12ec3  proprietary/lib64/vendor.qti.qcril.am@
 974c486e4ca03faa0713553d9dfe2995ac93e01c  proprietary/lib/libaptXHD_encoder.so
 c8876c8d4d7e06475e319f56dc28445c77b4a56f  proprietary/lib/libion.so
 f61cb46c01ea198b00cc0f22f4b60288561aae75  proprietary/lib/libminui.so
-d9be76fd1c06adb49b5c307975d0f04bac34deeb  proprietary/priv-app/CarrierSetup/CarrierSetup.apk
 9ed99d296b8d770a0e0d20fe06cc0f0697262917  proprietary/priv-app/CNEService/CNEService.apk
 5fd313d9aade7440c28dfce69f8a8d2a7fedba00  proprietary/priv-app/DiagMon/DiagMon.apk
 afa04d9deae65bbfe13317709ff940d1068476dc  proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
