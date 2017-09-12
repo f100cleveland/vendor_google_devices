@@ -1,4 +1,4 @@
-# [2017-09-11] Auto-generated file, do not edit
+# [2017-09-12] Auto-generated file, do not edit
 
 PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/bin/mct-unit-test-app:$(TARGET_COPY_OUT_SYSTEM)/bin/mct-unit-test-app:google \
@@ -14,13 +14,10 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/etc/sysconfig/nexus.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/nexus.xml:google \
     vendor/google_devices/sailfish/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so:google \
     vendor/google_devices/sailfish/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so:google \
-    vendor/google_devices/sailfish/proprietary/lib64/libminui.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libminui.so:google \
     vendor/google_devices/sailfish/proprietary/lib64/vendor.qti.atcmdfwd@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.qti.atcmdfwd@1.0.so:google \
     vendor/google_devices/sailfish/proprietary/lib64/vendor.qti.qcril.am@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.qti.qcril.am@1.0.so:google \
     vendor/google_devices/sailfish/proprietary/lib/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaptX_encoder.so:google \
     vendor/google_devices/sailfish/proprietary/lib/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaptXHD_encoder.so:google \
-    vendor/google_devices/sailfish/proprietary/lib/libion.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libion.so:google \
-    vendor/google_devices/sailfish/proprietary/lib/libminui.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libminui.so:google \
     vendor/google_devices/sailfish/vendor/app/embms/oem/config_params.xml:$(TARGET_COPY_OUT_VENDOR)/app/embms/oem/config_params.xml:google \
     vendor/google_devices/sailfish/vendor/app/embms/oem/provisioning_params.xml:$(TARGET_COPY_OUT_VENDOR)/app/embms/oem/provisioning_params.xml:google \
     vendor/google_devices/sailfish/vendor/app/embms/oem/verizon_config_params.txt:$(TARGET_COPY_OUT_VENDOR)/app/embms/oem/verizon_config_params.txt:google \
@@ -124,8 +121,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/vendor/bin/wdsdaemon:$(TARGET_COPY_OUT_VENDOR)/bin/wdsdaemon:google \
     vendor/google_devices/sailfish/vendor/bin/WifiLogger_app:$(TARGET_COPY_OUT_VENDOR)/bin/WifiLogger_app:google \
     vendor/google_devices/sailfish/vendor/bin/xtra-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/xtra-daemon:google \
-    vendor/google_devices/sailfish/vendor/compatibility_matrix.xml:$(TARGET_COPY_OUT_VENDOR)/compatibility_matrix.xml:google \
-    vendor/google_devices/sailfish/vendor/default.prop:$(TARGET_COPY_OUT_VENDOR)/default.prop:google \
     vendor/google_devices/sailfish/vendor/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/a2dp_audio_policy_configuration.xml:google \
     vendor/google_devices/sailfish/vendor/etc/aanc_tuning_mixer.txt:$(TARGET_COPY_OUT_VENDOR)/etc/aanc_tuning_mixer.txt:google \
     vendor/google_devices/sailfish/vendor/etc/acdbdata/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Bluetooth_cal.acdb:google \
@@ -1002,7 +997,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/vendor/lib/test_suite_no_sensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/test_suite_no_sensor.so:google \
     vendor/google_devices/sailfish/vendor/lib/test_suite_pproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/test_suite_pproc.so:google \
     vendor/google_devices/sailfish/vendor/lib/test_suite_vfe.so:$(TARGET_COPY_OUT_VENDOR)/lib/test_suite_vfe.so:google \
-    vendor/google_devices/sailfish/vendor/manifest.xml:$(TARGET_COPY_OUT_VENDOR)/manifest.xml:google \
     vendor/google_devices/sailfish/vendor/media/LMspeed_508.emd:$(TARGET_COPY_OUT_VENDOR)/media/LMspeed_508.emd:google \
     vendor/google_devices/sailfish/vendor/media/PFFprec_600.emd:$(TARGET_COPY_OUT_VENDOR)/media/PFFprec_600.emd:google \
     vendor/google_devices/sailfish/vendor/qcril_database/upgrade/1_version_intro.sql:$(TARGET_COPY_OUT_VENDOR)/qcril_database/upgrade/1_version_intro.sql:google \
