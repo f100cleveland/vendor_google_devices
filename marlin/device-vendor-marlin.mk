@@ -1,7 +1,8 @@
-# [2017-09-11] Auto-generated file, do not edit
+# [2017-09-12] Auto-generated file, do not edit
 
 $(call inherit-product, vendor/google_devices/marlin/marlin-vendor-blobs.mk)
 
+# Missing device vendor build properties
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.egl=adreno \
     ro.hardware.fingerprint=fpc
@@ -208,6 +209,8 @@ PRODUCT_PACKAGES += \
 # Enforced modules from user configuration
 PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager \
+    libion \
+    libminui \
     nanotool \
     PresencePolling \
     RcsService
