@@ -41,7 +41,6 @@ PRODUCT_PACKAGES += \
 # Prebuilt APKs/JARs from 'proprietary/priv-app'
 PRODUCT_PACKAGES += \
     CNEService \
-    DiagMon \
     qcrilmsgtunnel
 
 # Standalone symbolic links
