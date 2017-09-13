@@ -1,4 +1,4 @@
-# [2017-09-12] Auto-generated file, do not edit
+# [2017-09-13] Auto-generated file, do not edit
 
 LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),marlin)
@@ -272,19 +272,6 @@ LOCAL_BUILT_MODULE_STEM := package.apk
 LOCAL_MODULE_OWNER := google
 LOCAL_MODULE_PATH := $(PRODUCT_OUT)/$(TARGET_COPY_OUT_SYSTEM)/priv-app
 LOCAL_SRC_FILES := proprietary/priv-app/CNEService/CNEService.apk
-LOCAL_CERTIFICATE := platform
-LOCAL_MODULE_CLASS := APPS
-LOCAL_PRIVILEGED_MODULE := true
-LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := DiagMon
-LOCAL_MODULE_TAGS := optional
-LOCAL_BUILT_MODULE_STEM := package.apk
-LOCAL_MODULE_OWNER := google
-LOCAL_MODULE_PATH := $(PRODUCT_OUT)/$(TARGET_COPY_OUT_SYSTEM)/priv-app
-LOCAL_SRC_FILES := proprietary/priv-app/DiagMon/DiagMon.apk
 LOCAL_CERTIFICATE := platform
 LOCAL_MODULE_CLASS := APPS
 LOCAL_PRIVILEGED_MODULE := true
