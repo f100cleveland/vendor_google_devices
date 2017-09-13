@@ -7,7 +7,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.egl=adreno \
     ro.hardware.fingerprint=fpc
 
-PRODUCT_PACKAGE_OVERLAYS += vendor_overlay/google_devices/sailfish/overlay
+#PRODUCT_PACKAGE_OVERLAYS += vendor_overlay/google_devices/sailfish/overlay
 
 # Prebuilt APKs/JARs from 'vendor/app'
 PRODUCT_PACKAGES += \
