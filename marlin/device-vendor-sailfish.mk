@@ -1,4 +1,4 @@
-# [2017-09-12] Auto-generated file, do not edit
+# [2017-09-13] Auto-generated file, do not edit
 
 $(call inherit-product, vendor/google_devices/sailfish/sailfish-vendor-blobs.mk)
 
@@ -6,6 +6,8 @@ $(call inherit-product, vendor/google_devices/sailfish/sailfish-vendor-blobs.mk)
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.egl=adreno \
     ro.hardware.fingerprint=fpc
+
+PRODUCT_PACKAGE_OVERLAYS += vendor_overlay/google_devices/sailfish/overlay
 
 # Prebuilt APKs/JARs from 'vendor/app'
 PRODUCT_PACKAGES += \
