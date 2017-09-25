@@ -1,9 +1,9 @@
-b3e28f02920e6c439d65f61a3f608e508cc0e28b  vendor/google_devices/marlin/BoardConfigVendor.mk
-dfd50252bf5370989f31882003e48fa16f063eac  vendor/google_devices/marlin/device-vendor-sailfish.mk
-83419887c794b5edd2a035c7c6beb16875563681  vendor/google_devices/sailfish/AndroidBoardVendor.mk
-6887e2f2be13b9a8adc0cd76caace15901324268  vendor/google_devices/sailfish/Android.mk
-01a7f152fcce7800406564879a9ebfd22136a4ce  vendor/google_devices/sailfish/BoardConfigVendor.mk
-0a24de6ba03abfb6cf20e3f870921539975943c5  vendor/google_devices/sailfish/BoardConfigVendorPartial.mk
+d38cc1e0b592b9f003f4ad6fe3fd20d473e655b8  vendor/google_devices/marlin/BoardConfigVendor.mk
+f4130a61f70fcccec7a202e353c5007e3a524cd9  vendor/google_devices/marlin/device-vendor-sailfish.mk
+e69deec32ecc229f41f1af49fdd354e475ba13dd  vendor/google_devices/sailfish/AndroidBoardVendor.mk
+c244da85ea39c0a8f6e72b439a48c98d97211508  vendor/google_devices/sailfish/Android.mk
+8f06628e175681656a69162eb86c6c85c6fc5c79  vendor/google_devices/sailfish/BoardConfigVendor.mk
+b579642138f4c8814f892d664256ccdaca50429e  vendor/google_devices/sailfish/BoardConfigVendorPartial.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  vendor/google_devices/sailfish/proprietary/bin/mct-unit-test-app
 12a74ee0b0ec29d1cf4ffd842c12bba917014622  vendor/google_devices/sailfish/proprietary/bin/pktlogconf
 e9f48f6780a2e9d0c6a5836896da82ffafe09e58  vendor/google_devices/sailfish/proprietary/bin/qmi_simple_ril_test
@@ -39,7 +39,7 @@ a7ee381d28db9f8ef1a610ff4526bc3c47edcf14  vendor/google_devices/sailfish/radio/m
 7d07d2c79916cc5e7598afe024be091b5e30ce27  vendor/google_devices/sailfish/radio/rpm.img
 8b80a7bcd841b8dad3a9f772d2e0177372311fb9  vendor/google_devices/sailfish/radio/tz.img
 331f538cd9c22d9791e11498a960305fbb4a57b5  vendor/google_devices/sailfish/radio/xbl.img
-a7cc289109b2937d1ae000d73d588924026fd6e5  vendor/google_devices/sailfish/sailfish-vendor-blobs.mk
+2526fea44ecdfa51c6473fc44588ff829cf6d62d  vendor/google_devices/sailfish/sailfish-vendor-blobs.mk
 edf1bdf969ffafac0d83c4652c19040ffe56183c  vendor/google_devices/sailfish/vendor/app/atfwd/atfwd.apk
 ae61703efbbe69cd6d91b42128f9b5103e37f32f  vendor/google_devices/sailfish/vendor/app/colorservice/colorservice.apk
 d3f0ff3d7cf24b29d56d3b1d471f2f8f8833f8ab  vendor/google_devices/sailfish/vendor/app/datastatusnotification/datastatusnotification.apk
@@ -298,7 +298,6 @@ f56aeeae1a5e1dcfe456a8cb341351ec2f3b746c  vendor/google_devices/sailfish/vendor/
 f770467cc4af27f6660922adab5da0563996ea2d  vendor/google_devices/sailfish/vendor/etc/thermal-engine-vr.conf
 5302641ac76d3522678646055016d8ca109a18cd  vendor/google_devices/sailfish/vendor/etc/usb_audio_policy_configuration.xml
 6d557541aee5d4c842c02d5a6cdf79e7c8b2050b  vendor/google_devices/sailfish/vendor/etc/wifi/p2p_supplicant_overlay.conf
-95db37d0213c1d3fd776664c4b8ff5e94af4c771  vendor/google_devices/sailfish/vendor/etc/wifi/wpa_supplicant.conf
 6e52b9a23c740350171bc41870fbc8124b498807  vendor/google_devices/sailfish/vendor/etc/wifi/wpa_supplicant_overlay.conf
 706da8d5ee565dcf456341f805ee75a40773f65a  vendor/google_devices/sailfish/vendor/firmware/a530_gpmu.fw2
 448f9db8271fefb08348cbc50409e8e95bd93f78  vendor/google_devices/sailfish/vendor/firmware/a530_pfp.fw

@@ -1,4 +1,4 @@
-# [2017-09-13] Auto-generated file, do not edit
+# [2017-09-25] Auto-generated file, do not edit
 
 PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/bin/mct-unit-test-app:$(TARGET_COPY_OUT_SYSTEM)/bin/mct-unit-test-app:google \
@@ -259,7 +259,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/vendor/etc/thermal-engine-vr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-vr.conf:google \
     vendor/google_devices/sailfish/vendor/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml:google \
     vendor/google_devices/sailfish/vendor/etc/wifi/p2p_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/p2p_supplicant_overlay.conf:google \
-    vendor/google_devices/sailfish/vendor/etc/wifi/wpa_supplicant.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant.conf:google \
     vendor/google_devices/sailfish/vendor/etc/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf:google \
     vendor/google_devices/sailfish/vendor/firmware/a530_gpmu.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_gpmu.fw2:google \
     vendor/google_devices/sailfish/vendor/firmware/a530_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pfp.fw:google \

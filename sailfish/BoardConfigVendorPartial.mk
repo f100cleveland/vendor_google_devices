@@ -1,4 +1,4 @@
-# [2017-09-13] Auto-generated file, do not edit
+# [2017-09-25] Auto-generated file, do not edit
 
 TARGET_BOARD_INFO_FILE := vendor/google_devices/sailfish/vendor-board-info.txt
 BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
