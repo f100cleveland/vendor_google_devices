@@ -1,9 +1,9 @@
-83419887c794b5edd2a035c7c6beb16875563681  vendor/google_devices/marlin/AndroidBoardVendor.mk
-5524e6e70c58ed6866c0293670cea3f1208e1fc1  vendor/google_devices/marlin/Android.mk
-b3e28f02920e6c439d65f61a3f608e508cc0e28b  vendor/google_devices/marlin/BoardConfigVendor.mk
-0cb31c05a00e9dd00884f624c1a6e3dcb504cc08  vendor/google_devices/marlin/BoardConfigVendorPartial.mk
-2140822cbb3291ac553bb53453b0118fa3163111  vendor/google_devices/marlin/device-vendor-marlin.mk
-9bbe5c53a9c100c39e1794e1bd46bb0eb2b2292e  vendor/google_devices/marlin/marlin-vendor-blobs.mk
+e69deec32ecc229f41f1af49fdd354e475ba13dd  vendor/google_devices/marlin/AndroidBoardVendor.mk
+f56f99d6c78e61b5e95587cd0cb96f93da8e4438  vendor/google_devices/marlin/Android.mk
+d38cc1e0b592b9f003f4ad6fe3fd20d473e655b8  vendor/google_devices/marlin/BoardConfigVendor.mk
+c9fe049c486cfa9f1339657e5c494f79a3f8aebf  vendor/google_devices/marlin/BoardConfigVendorPartial.mk
+fe97acf7f6a911ec927ea2271202952fc2794c82  vendor/google_devices/marlin/device-vendor-marlin.mk
+a6bab55c3edb7565e3b08f6a24a9b62986ac3a78  vendor/google_devices/marlin/marlin-vendor-blobs.mk
 0f53411c21d0b8e6b56a52de79dc3c9b3acb0b75  vendor/google_devices/marlin/proprietary/bin/mct-unit-test-app
 12a74ee0b0ec29d1cf4ffd842c12bba917014622  vendor/google_devices/marlin/proprietary/bin/pktlogconf
 e9f48f6780a2e9d0c6a5836896da82ffafe09e58  vendor/google_devices/marlin/proprietary/bin/qmi_simple_ril_test
@@ -297,7 +297,6 @@ f56aeeae1a5e1dcfe456a8cb341351ec2f3b746c  vendor/google_devices/marlin/vendor/et
 f770467cc4af27f6660922adab5da0563996ea2d  vendor/google_devices/marlin/vendor/etc/thermal-engine-vr.conf
 5302641ac76d3522678646055016d8ca109a18cd  vendor/google_devices/marlin/vendor/etc/usb_audio_policy_configuration.xml
 6d557541aee5d4c842c02d5a6cdf79e7c8b2050b  vendor/google_devices/marlin/vendor/etc/wifi/p2p_supplicant_overlay.conf
-95db37d0213c1d3fd776664c4b8ff5e94af4c771  vendor/google_devices/marlin/vendor/etc/wifi/wpa_supplicant.conf
 6e52b9a23c740350171bc41870fbc8124b498807  vendor/google_devices/marlin/vendor/etc/wifi/wpa_supplicant_overlay.conf
 706da8d5ee565dcf456341f805ee75a40773f65a  vendor/google_devices/marlin/vendor/firmware/a530_gpmu.fw2
 448f9db8271fefb08348cbc50409e8e95bd93f78  vendor/google_devices/marlin/vendor/firmware/a530_pfp.fw
